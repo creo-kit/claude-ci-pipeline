@@ -1,0 +1,12 @@
+{
+  "name": "claude-ci-pipeline",
+  "version": "1.0.0",
+  "description": "AI-powered CI/CD pipeline skill for Claude Code. Creates GitHub Actions workflows, debugs failing pipelines, optimizes build times, manages caching strategies, matrix builds, and reusable workflows.",
+  "author": "creo-kit",
+  "license": "MIT",
+  "homepage": "https://github.com/creo-kit/claude-ci-pipeline",
+  "entry_point": "skills/creo-pipeline/SKILL.md",
+  "skills": [
+    "skills/creo-pipeline/SKILL.md"
+  ]
+}
