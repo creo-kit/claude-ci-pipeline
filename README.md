@@ -1,3 +1,5 @@
+<p align="center"><img src="screenshots/cover-image.svg" alt="claude-ci-pipeline" width="100%" /></p>
+
 # claude-ci-pipeline
 
 **AI-powered CI/CD pipeline skill for Claude Code -- GitHub Actions workflow creation, debugging, optimization, and security hardening.**
